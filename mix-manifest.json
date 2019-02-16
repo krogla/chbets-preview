@@ -1,1 +1,6 @@
-../chbets/public/mix-manifest.json
+{
+    "/js/app.js": "/js/app.js?id=19740f204e033f13da23",
+    "/css/app.css": "/css/app.css?id=abc0cd0bfb072d736c0f",
+    "/js/manifest.js": "/js/manifest.js?id=844cdbfe9e6b6b56ae8f",
+    "/js/vendor.js": "/js/vendor.js?id=6cbc697cb2cf627fc6ca"
+}

@@ -1,1 +1,0 @@
-../chbets/public/js

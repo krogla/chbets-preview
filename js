@@ -1,1 +1,1 @@
-/Users/krogla/Projects/chbets/public/js
+../chbets/public/js
